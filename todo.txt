@@ -6,4 +6,7 @@ Conversion funcions needed:
 - Feet to Inches
 - Degrees to Radius
 
+Implementation
+Probably better to write different fuctions for each conversion
+instead of handling all conversions in a single function
 
